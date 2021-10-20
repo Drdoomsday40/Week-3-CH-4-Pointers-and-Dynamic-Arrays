@@ -1,0 +1,5 @@
+﻿  sequence1.cpp
+  sequence_exam.cxx
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 3, (9_14) CH 4 Pointers and Dynamic Arrays\sequence1\sequence_exam.cxx(273,22): warning C4244: 'argument': conversion from 'size_t' to 'const main_savitch_3::sequence::value_type', possible loss of data
+  Generating Code...
+  sequence1.vcxproj -> C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 3, (9_14) CH 4 Pointers and Dynamic Arrays\sequence1\x64\Debug\sequence1.exe
